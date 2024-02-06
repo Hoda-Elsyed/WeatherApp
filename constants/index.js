@@ -1,4 +1,4 @@
-export const apiKey = "78b6e599c2c44d69b3e94458240602";
+export const apiKey = "Please add your api key here";
 
 
 export const weatherImages = {
